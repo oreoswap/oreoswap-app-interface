@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4036783bD6Ca4Ee26325B53eA6a357dF0541906d",
+  "SCAN_LINK": "https://etherscan.io/token/0x4036783bd6ca4ee26325b53ea6a357df0541906d",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Drip Panda",
+  "SYMBOL": "DP",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.050,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/drip-panda",
+  "SHOW_BACKGROUND": true
+}
